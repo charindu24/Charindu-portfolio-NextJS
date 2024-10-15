@@ -3,13 +3,13 @@ import { Inter } from "next/font/google";
 
 import "./globals.css";
 import { ThemeProvider } from "./Provider";
- // Import your music player
+ 
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Charindu's Portfolio",
-  description: "Modern & Minimal JS Mastery Portfolio",
+  description: "Charindu Portfolio",
 };
 
 export default function RootLayout({
