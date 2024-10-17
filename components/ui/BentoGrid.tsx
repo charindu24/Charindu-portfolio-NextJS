@@ -170,7 +170,7 @@ export const BentoGridItem = ({
                 icon={<IoCopyOutline />}
                 position="left"
                 handleClick={handleCopy}
-                otherClasses="!bg-[#161A31]" 
+                otherClasses="!bg-[#161A31]"
               />
 
                {/* Download CV Button */}
@@ -180,7 +180,7 @@ export const BentoGridItem = ({
                 position="left"
                 handleClick={() => {
                   // Link to the CV file
-                  window.open("/CharinduBandaranayakeResumeOCT24", "_blank"); // Ensure your CV is available in the public folder
+                  window.open("/CharinduBandaranayakeResumeOCT24.pdf", "_blank"); // Ensure your CV is available in the public folder
                 }}
                 otherClasses="!bg-[#161A31]" // Customize the button style
               />
