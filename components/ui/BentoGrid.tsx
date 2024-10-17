@@ -180,7 +180,7 @@ export const BentoGridItem = ({
                 position="left"
                 handleClick={() => {
                   // Link to the CV file
-                  window.open("/Charindu Bandaranayake.Version2-CV.pdf", "_blank"); // Ensure your CV is available in the public folder
+                  window.open("/CharinduBandaranayakeResumeOCT24", "_blank"); // Ensure your CV is available in the public folder
                 }}
                 otherClasses="!bg-[#161A31]" // Customize the button style
               />
