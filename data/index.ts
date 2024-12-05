@@ -80,6 +80,15 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg"],
     link: "https://virtual-ir-landing-git-e87144-charindu-bandaranayakes-projects.vercel.app/", //live link
     git: 'https://github.com/charindu24/VirtualRLandingPage' // GitHub repository link
+  },
+  {
+    id: 1,
+    title: "NextCart E-Commerce Webstie",
+    des: "Developed using MERN Stack, JavaScript ES7, and Tailwind CSS for a modern and responsive design.",
+    img: "/NextCart.svg",
+    iconLists: ["/re.svg", "/exp1.svg", "/node-js.svg", "/mongodb.svg", "/tail.svg", "cloud.svg",],
+    link: "https://drive.google.com/file/d/1mgxBpPQEu-TyDDkadQID8eBzP0AWcnr_/view?usp=drive_link", //live link
+    git: 'https://github.com/charindu24/FullStack_E-Commerce_Site24' // GitHub repository link
   }
   
 ];
