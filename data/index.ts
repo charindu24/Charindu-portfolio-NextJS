@@ -76,7 +76,7 @@ export const projects = [
     id: 1,
     title: "Virtual Build Tools Landing Page",
     des: "Developed using React, JavaScript ES6, and Tailwind CSS for a modern and responsive design.",
-    img: "/p11.svg",
+    img: "/virtual r.jpg",
     iconLists: ["/re.svg", "/tail.svg"],
     link: "https://virtual-ir-landing-git-e87144-charindu-bandaranayakes-projects.vercel.app/", //live link
     git: 'https://github.com/charindu24/VirtualRLandingPage' // GitHub repository link
