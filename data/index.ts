@@ -94,7 +94,7 @@ export const projects = [
     id: 1,
     title: "VibeChat-Real-time chating app-MERN",
     des: "VibeChat is a real-time messaging app built with the MERN stack, featuring secure JWT authentication, Socket.io for instant chats, and a sleek Tailwind CSS UI. Designed for speed, security, and scalability..",
-    img: "/vibechat.jpg",
+    img: "/vibechat.svg",
     iconLists: ["/re.svg", "/exp1.svg", "/node-js.svg", "/mongodb.svg", "/tail.svg"],
     link: "#", //live link
     git: 'https://github.com/charindu24/ChatAppMERN' // GitHub repository link
