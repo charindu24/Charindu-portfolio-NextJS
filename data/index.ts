@@ -168,14 +168,8 @@ export const workExperience = [
     desc: "Managed IT operations and developed marketing strategies to drive business growth and enhance digital presence.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
-  },
-  {
-    id: 4,
-    title: "Data Entry Operator",
-    desc: "Accurately entered and managed large volumes of data, ensuring high-quality records and efficient database maintenance.",
-    className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
-  },
+  }
+  
 ];
 
 // Social Media Links
